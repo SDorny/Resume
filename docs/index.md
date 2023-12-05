@@ -1,89 +1,73 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Sarah Dorny's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
+# Sarah Dorny
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="sarahdorny@gmail.com">sarahdorny@gmail.com</a>
+| <a href="linkedin.com/sdorny">LinkedIn</a>
+| <a href="datascienceportfol.io/sdorny">Portfolio</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected April 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Bachelor of Mathematics in Data Science
+- GPA: 3.97
+- Recipient of Full-Tuition Scholarship for Academic Excellence
 
+## Skills
 
-## Related Experience
+**Interpersonal:**
+- Curiosity, Problem-Solving, Innovation, Research, Collaboration
+- Presentation, Story-telling, Creativity, Adaptability, Planning
 
-### Internships
+**Technical:**
+- Power BI, Python, NumPy, Pandas, SQL, Streamlit, Excel
+- Bash, C++, HTML, CSS, Javascript, React, Github
+- Figma, Adobe Photoshop, Adobe Illustrator
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+## Certificates
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+**Power BI Desktop for Business Intelligence:**
+- Used Power BI to connect and shape data, create a relational database, implement DAX measures, and visualize the data for a mock business
 
-### Data Science Lead
+**Python for Data Science:**
+- Used NumPy and Pandas to manipulate Amsterdam Airbnb Data, showcasing results of the learning on Streamlit
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+## Experience
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Technology Support Engineer
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`June 2023 - Present`
+__BYU-Idaho Information Technology__, Rexburg, ID
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Managed a diverse fleet of 816 Mac computers and 267 devices
+- Implemented efficient and automated software deployment and updated processes
+- Analyzed over 90 complex data points to identify problems from outdated software to computer usage
+- Played a pivotal role in enhancing data governance and quality standards
+- Integrated Power BI to visualize KPIs, creating 4 reports
 
-### Data Science Consulting Team
+### Business Intelligence Project Manager
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`April 2022 - June 2023`
+__BYU-Idaho Support Center__, Rexburg, ID
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Led a team of 4 data analysts to transform help center data into actionable insights with Power BI
+- Developed and executed 3 comprehensive project plans, from data collection to reporting
+- Collaborated with 8 executives weekly and communicated objectives, findings, and actions
+- Mentored team members in Power BI best practices, improving visualization and analytical findings
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+### Systems Developer
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`December 2020 - April 2022`
+__BYU-Idaho Support Center__, Rexburg, ID
 
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Worked on a team of 6 developers and 2 analysts to innovate automated processes within the BYU-I Call Center
+- Took initiative on choosing and completing over 8 high-priority projects with hard deadlines
+- Performed code reviews, unit testing, and debugging to ensure the functionality and performance of the software
+- Investigated and solved issues reported by employees, callers, and other departments on campus
