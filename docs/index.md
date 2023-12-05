@@ -1,10 +1,7 @@
 ---
 layout: cv
-title: Sarah Dorny's Resume
+title: Sarah Dorny
 ---
-
-# Sarah Dorny
-
 <div id="webaddress">
 <a href="sarahdorny@gmail.com">sarahdorny@gmail.com</a>
 | <a href="linkedin.com/sdorny">LinkedIn</a>
